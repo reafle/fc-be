@@ -1,0 +1,13 @@
+{
+  "name": "fc-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "olegas <oleg@inventi.lt>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "redis": "^2.8.0",
+    "socket.io": "^2.1.1"
+  }
+}
